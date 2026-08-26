@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **innovative AI projects**
-
-- 💬 Ask me about **Python, ML, DL, NLP**
+- 🔭 I’m currently building production-ready AI solutions using Machine Learning, Generative AI, RAG, Computer Vision, and MLOps
+  
+- 👯 I’m looking to collaborate on innovative Applied AI and open-source projects
+  
+- 💬 Ask me about Python, Machine Learning, Deep Learning, LLMs, RAG, NLP, Computer Vision, and MLOps
 
 - 📫 How to reach me **younes17072001@gmail.com**
 
