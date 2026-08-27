@@ -89,7 +89,21 @@
 
 <h2 align="left">📊 GitHub Activity</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younesgu&" alt="younesgu" /></p>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=younesgu&theme=tokyonight&hide_border=true"
+    alt="Younes's GitHub streak"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=younesgu&theme=tokyo-night&hide_border=true&area=true"
+    alt="Younes's GitHub contribution graph"
+  />
+</div>
 
 ### Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
